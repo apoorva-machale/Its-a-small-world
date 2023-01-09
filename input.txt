@@ -1,0 +1,8 @@
+n=7 and
+CAST[0] = {“Carrie-Anne Moss”, “Gloria Foster”, “Hugo Weaving”, “Joe Pantoliano”,“Keanu Reeves”, “Laurence Fishburne”, “Marcus Chong”}
+CAST[1] = { “Andrew Borba”, “Anne Hathaway”, “Bill Irwin”, “Casey Affleck”,  “Collette Wolfe”, “David Oyelowo”, “Francis X. McCarthy”, “Jessica Chastain”, “John Lithgow”, “Matthew McConaughey”, “Michael Caine”, “Wes Bentley”, “William Devane”}
+CAST[2] = { “Geoffrey Rush”,  “Jack Davenport”, “Johnny Depp”, “Jonathan Pryce”, “Keira Knightley”, “Orlando Bloom” }
+CAST[3] = { “Angela Bassett”, “Chadwick Boseman”, ”Danai Gurira”, “Daniel Kaluuya”, “Forest Whitaker”, “Letitia Wright”, “Lupita Nyongo”, “Martin Freeman”, “Michael B. Jordan”, “Sterling K. Brown”, “Winston Duke”}
+CAST[4] = { “Abraham Attah”, “Asa Butterfield”,“Anne Hathaway”, “Chloe Grace Moretz”, “Daniel Radcliffe”, “Jeff Goldblum”, “Keanu Reeves”, “Tom Holland”}
+CAST[5] = { “Andre Braugher”, “Beau Garrett”, “Chris Evans”, “Doug Jones”, “Ioan Gruffudd”, “Jessica Alba”, “Julian McMahon”, “Kerry Washington”, “Laurence Fishburne”, “Michael Chiklis” }
+CAST[6] = { “Ewan McGregor”, “Ian McDiarmid”, “Jake Lloyd”, “Liam Neeson”, “Natalie Portman”}
