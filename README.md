@@ -1,4 +1,4 @@
-# CSUF-Algorithms-Its-a-small-world
+# Its-a-small-world
 It's a small world
 
 Summary: The It's a Small World algorithm is based on the popular 2019 game "Six Degrees of Kevin Bacon." The goal of this algorithm is to find the shortest path between two casts from different movies. And the casts of various films will be saved in a list in string format.
